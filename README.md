@@ -79,7 +79,7 @@ import(
 
 ```sh
 # In the repo root directory
-$ TERM=FA23 deno task classrooms:scrape-to-file
+$ ICLTERM=FA23 deno task classrooms:scrape-to-file
 # Deploy classroom data files
 $ ./scripts/deploy.sh ./classrooms/data/ data
 
